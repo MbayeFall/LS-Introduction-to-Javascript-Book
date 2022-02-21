@@ -1,2 +1,3 @@
-README.md
-Create a folder for each chapter and a file for each exercise
+The exercises that I've done going through the Introduction to Javascript book. 
+Each folder represents a chapter
+Each file an exercise 
