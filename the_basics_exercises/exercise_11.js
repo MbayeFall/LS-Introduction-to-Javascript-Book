@@ -1,0 +1,1 @@
+// 3 . ParseInt stops at the first value that's not an integer

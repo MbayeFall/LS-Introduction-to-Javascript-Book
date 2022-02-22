@@ -1,0 +1,2 @@
+// Since Name is initialized with the value of 'Victor', in the first console.log() 'Victor' will get concatenated with first string and 'Good Morning, Victor' will get printed. That applies to all the other console.log() on this exercise
+// Since the variable was set with const and not let, reassigning the value of NAME is not possible in this case. Therefore the 3 lines after the reassignment to 'Joe' will still output using the name 'Victor'

@@ -1,0 +1,2 @@
+// When the program is run, the value of console.log() should return 'bar' since it's the value of the variable foo. 
+// However since variables initialized with "let" are block scoped, the variable is not accessible through the global scope of the document so it prints an undeclared variable which is an error.
