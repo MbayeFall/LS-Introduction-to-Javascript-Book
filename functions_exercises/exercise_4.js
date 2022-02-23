@@ -1,0 +1,1 @@
+// it doesn't log anything. The return on line 3 terminates the function

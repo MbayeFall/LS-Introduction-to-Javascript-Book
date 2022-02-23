@@ -1,0 +1,1 @@
+// The output will be "1" in this case simply because variables defined inside of a function are not part of the global scope. Although these two variables have the same name, they aren't in any case related even though they have the same name.
