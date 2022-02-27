@@ -1,0 +1,1 @@
+// It rspreads a string into an array of characters, reverses the array then iterate over it and finally return the length of the array.

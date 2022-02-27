@@ -1,0 +1,1 @@
+// primitive data types are immutable. Whereas objects and keys can be mutated resulting in 'hi' for the a key of the foo object and 'hello' remaining untouched

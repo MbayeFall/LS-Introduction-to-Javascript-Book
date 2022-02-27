@@ -1,0 +1,1 @@
+// The output will be different. For each will only output the keys that are present on the "myObj" object. The for//in loop does not stop there and will even iterate over the parent object which "myObj" is a prototype of. Resulting in more keys when using the for...in loop. 

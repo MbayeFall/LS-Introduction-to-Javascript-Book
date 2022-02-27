@@ -1,0 +1,2 @@
+//  since a strict equality was not used but an assignment,the condition (counter = 1) is evaluated as truthy, therefore the block of code coming after start runnning. However it can't stop because even though the counter gets incremented by 1, to reach 2, the value gets reassigned to 1 again when the loop restarts.
+// the second condition doesn't fix it either if counter > 2 would be 3 or more and the counter never gets to 3 but 2 and 1 back and forth. Causing an infinite loop
